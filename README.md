@@ -20,7 +20,7 @@ namespace recursive_extension_metotlar
             Console.WriteLine(instance.Expo(3,4));
 
             // Extension Metotlar
-            string ifade = "Emre Aygener";
+            string ifade = "Burak yuceler";
             bool sonuc = ifade.CheckSpaces();
             Console.WriteLine(sonuc);
             if (sonuc)
